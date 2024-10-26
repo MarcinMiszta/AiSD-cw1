@@ -30,6 +30,7 @@ namespace cw1
         {
 
         }
+        //sortowanie b¹belkowe
         private void button1_Click(object sender, EventArgs e)
         {
             int[] tab = { 8, 7, 1, 3, 5, 2, 4 };
@@ -51,6 +52,7 @@ namespace cw1
             MessageBox.Show(message);
 
         }
+        //przez wstawianie
         private void button2_Click(object sender, EventArgs e)
         {
             int[] tab = { 8, 7, 1, 3, 5, 2, 4 };
